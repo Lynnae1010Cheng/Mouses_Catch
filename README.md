@@ -23,4 +23,4 @@
 3. 以滑鼠點擊，便能得分，在時間倒數結束後，清空角色。
 
 # 遊戲畫面
-![遊戲畫面]( [https://github.com/Lynnae1010Cheng/Mouses_Catch/blob/main/Mouses_Catch/Game_Start.png] "Game_Start")
+![遊戲畫面](https://github.com/Lynnae1010Cheng/Mouses_Catch/blob/main/Mouses_Catch/Game_Start.png)
